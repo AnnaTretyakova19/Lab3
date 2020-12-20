@@ -1,0 +1,4 @@
+﻿  Lab3_srom.cpp
+C:\Users\Geka\Desktop\Anna\srom_proga\Lab3_srom\Lab3_srom\Header.h(29,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Geka\Desktop\Anna\srom_proga\Lab3_srom\Lab3_srom\Header.h(35,1): warning C4244: +=: преобразование "double" в "polinomial::data_t", возможна потеря данных
+  Lab3_srom.vcxproj -> C:\Users\Geka\Desktop\Anna\srom_proga\Lab3_srom\Debug\Lab3_srom.exe
